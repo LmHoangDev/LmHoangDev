@@ -1,7 +1,6 @@
 <a href="#" target="_blank">
   <img src="svg/lmhoangdev.svg" width="1200" alt="Click to see the source" />
 </a>
-<lin>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
@@ -80,6 +79,14 @@
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="..." />
   </a>
 </div>
-<div align="center">
+<a href="#" target="_blank">
     <img src="svg/infodev.svg" width="1200" alt="css-in-readme">
+</a>
+<h2 align="center">📑 Random DEV Quotes 📑</h2>
+<br>
+<!-- https://github.com/shravan20/github-readme-quotes -->
+<div align="right">
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=onedark&animation=default&layout=default&font=default)
+
 </div>

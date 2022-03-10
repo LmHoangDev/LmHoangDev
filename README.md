@@ -67,10 +67,10 @@
   <a href="#" target="blank">
     <img width="90" height="90" src="images/logo.PNG" alt="..."/>
   </a>
-  <a href="https://www.facebook.com/lamsung.it.haui/" target="blank">
+  <a href="https://www.facebook.com/lamsung.it.haui/" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="..." />
   </a>
-  <a href="https://www.linkedin.com/in/lam-hoang-91453a227/" target="blank">
+  <a href="https://www.linkedin.com/in/lam-hoang-91453a227/" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="..." />
   </a>
   <!-- <a href="https://instagram.com/zeroca2503" target="blank">

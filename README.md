@@ -65,7 +65,7 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="#" target="blank">
-    <img  style="width: 75px;height: 75px;margin-bottom: 11px;margin-right: 10px;" src="images/Logo.jpg" alt="...."/>
+   <img src="https://img.icons8.com/bubbles/100/000000/react.png" alt="..."/>
   </a>
   <a href="https://www.facebook.com/lamsung.it.haui/" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="..." />
@@ -85,10 +85,11 @@
  </div>
 <br>
 
-<!-- <h2 align="center">📑 Random Quotes 📑</h2>
+<h2 align="center">📑 Random DEV Quotes 📑</h2>
 <br>
 <!-- https://github.com/shravan20/github-readme-quotes -->
-<!-- <div align="right"> -->
-<!--
-[Quote](https://github-readme-quotes.herokuapp.com/quote?theme=onedark&animation=default&layout=default&font=default) -->
+<div align="right">
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=onedark&animation=default&layout=default&font=default)
+
 </div>

@@ -80,7 +80,7 @@
   </a>
 </div>
 <a href="#" target="_blank">
-    <img src="svg/infodev.svg" width="1200" alt="css-in-readme">
+    <img src="svg/infodev.svg" width="1200" alt="css-in-readme"/>
 </a>
 <h2 align="center">📑 Random DEV Quotes 📑</h2>
 <br>

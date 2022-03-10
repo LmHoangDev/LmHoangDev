@@ -65,7 +65,7 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="#" target="blank">
-    <img width="90" height="90" src="images/Logo.jpg" alt="...."/>
+    <img  style="width: 75px;height: 75px;margin-bottom: 11px;margin-right: 10px;" src="images/Logo.jpg" alt="...."/>
   </a>
   <a href="https://www.facebook.com/lamsung.it.haui/" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="..." />
@@ -80,7 +80,7 @@
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="..." />
   </a>
 </div>
- <div class="center">
+ <div class="center" style="text-align:center">
   <img align="center" src="images/lmhoangdev.gif">
  </div>
 <br>

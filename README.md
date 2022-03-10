@@ -79,9 +79,9 @@
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="..." />
   </a>
 </div>
-<a href="#" target="_blank">
-    <img src="svg/infodev.svg" width="1200" alt="css-in-readme"/>
-</a>
+<div class="center">
+    <img align="center" src="images/lmhoangdev.gif" alt="..."/>
+</div>
 <h2 align="center">📑 Random DEV Quotes 📑</h2>
 <br>
 <!-- https://github.com/shravan20/github-readme-quotes -->

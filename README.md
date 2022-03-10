@@ -53,7 +53,7 @@
   <a href="#" title="LmHoangDev">
     <img width="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LmHoangDev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
-<!--   <img align="center" src="/images/lmhoangdev.gif" width="240" height="150" style="margin-left: 100px;"> -->
+  <img align="center" src="images/lmhoangdev.gif" width="240" height="150" style="margin-left: 100px;">
     <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=LmHoangDev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
@@ -65,7 +65,7 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="#" target="blank">
-    <img width="90" height="90" src="/images/Logo.png" alt="...."/>
+    <img width="90" height="90" src="images/Logo.png" alt="...."/>
   </a>
   <a href="https://www.facebook.com/lamsung.it.haui/" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="..." />
